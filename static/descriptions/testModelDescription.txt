@@ -1,0 +1,16 @@
+{
+  "lid": "",
+  "preview": {
+    "title": "Test model",
+    "paragraphs": [
+      "This lovely model was created long time ago."
+    ]
+  },
+  "main": {
+    "title": "History",
+    "paragraphs": [
+      "I was young when the idea comes to my mind.",
+      "I have to grow up to undestand how to develop this test model."
+    ]
+  }
+}
