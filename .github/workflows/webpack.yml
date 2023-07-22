@@ -26,4 +26,4 @@ jobs:
       run: |
         npm install
         npm run build
-        npx webpack
+        npx webpack --config ./bundler/webpack.prod.js
